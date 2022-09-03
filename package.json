@@ -1,0 +1,26 @@
+{
+  "name": "m3---bt---xd-tinh-nang-tu-dong-dang-nhap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kienbui195/BT---TInh-nang-tu-dong-dang-nhap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kienbui195/BT---TInh-nang-tu-dong-dang-nhap/issues"
+  },
+  "homepage": "https://github.com/kienbui195/BT---TInh-nang-tu-dong-dang-nhap#readme",
+  "dependencies": {
+    "cookie": "^0.5.0",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.19",
+    "qs": "^6.11.0",
+    "socket.io": "^4.5.2"
+  }
+}
